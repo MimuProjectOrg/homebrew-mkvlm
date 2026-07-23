@@ -13,8 +13,8 @@
 class Mkvlm < Formula
   desc "Create and manage macOS sparse bundle disk images"
   homepage "https://github.com/MimuProjectOrg/mkvlm"
-  url "https://github.com/MimuProjectOrg/mkvlm/archive/refs/tags/v1.11.0.tar.gz"
-  sha256 "5414296bee0cc2cd9d65a57f96a9c29ec6185e56af3abd2391f7d76ea351fb14"
+  url "https://github.com/MimuProjectOrg/mkvlm/archive/refs/tags/v1.12.0.tar.gz"
+  sha256 "f6efba866915eb3b1c12afed2d0bd3d7bf77b578d8300abd742c24b93a3901af"
   license "MIT"
   head "https://github.com/MimuProjectOrg/mkvlm.git", branch: "main"
 
